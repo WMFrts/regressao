@@ -57,7 +57,9 @@
 
 <h3>REFERÊNCIAS</h3>
 
-<p align = 'JUSTIFY'>REGRESSÃO (ESTATÍSTICA). In: WIKIPÉDIA, a enciclopédia livre. Flórida: Wikimedia Foundation, 2021. Disponível em: <https://pt.wikipedia.org/w/index.php?title=Regress%C3%A3o_(estat%C3%ADstica)&oldid=62175676>. Acesso em: 28 fev. 2022.
+<p align = 'JUSTIFY'>GARBAGE IN, GARBAGE OUT. In: WIKIPÉDIA, a enciclopédia livre. Flórida: Wikimedia Foundation, 2015. Disponível em: <a href= "https://pt.wikipedia.org/w/index.php?title=Garbage_in,_garbage_out&oldid=41413801">Garbage in, garbage out</a>. Acesso em: 19 fev. 2022.
+
+<p align = 'JUSTIFY'>REGRESSÃO (ESTATÍSTICA). In: WIKIPÉDIA, a enciclopédia livre. Flórida: Wikimedia Foundation, 2021. Disponível em: <a href= "https://pt.wikipedia.org/w/index.php?title=Regress%C3%A3o_(estat%C3%ADstica)&oldid=62175676">Regressão</a>. Acesso em: 28 fev. 2022.
 
 
-<p align = 'JUSTIFY'> BHALLA, Deepanshu. 15 Types of Regression in Data Science.Listen Data, Delhi, 25, março, 2018. Disponível em: <https://www.listendata.com/2018/03/regression-analysis.html>. Acesso em: 28 fev. 2022.
+<p align = 'JUSTIFY'> BHALLA, Deepanshu. 15 Types of Regression in Data Science.Listen Data, Delhi, 25, março, 2018. Disponível em: <https://www.listendata.com/2018/03/regression-analysis.html> 15 Types of Regression in Data Science</a>. Acesso em: 28 fev. 2022.
