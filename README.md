@@ -11,7 +11,7 @@
 <p align = 'JUSTIFY'>Existem mais de 10 tipos de regressão, nesse estudo serão abordadas a regressão linear simples, regressão linear múltipla, regressão polinomial. Além disso, regressão com árvores de decisão, random forest, vetores de suporte e com redes neurais </p>
 
 
-<p align = 'JUSTIFY'>Em relação aos dados, foram utilizados uma base de dados ilustrativa sobre plano de saúde para responder o questionamento: "quanto poderia custar o plano saúde dependendo da idade da pessoa?". Em outro momento, foi usado um bando de dados sobre preço de casas com a pergunta "De acordo com os dados apresentados, baseado na metragem, qual seria o preço da casa?" </p>
+<p align = 'JUSTIFY'>Em relação aos dados, foram utilizados uma base de dados ilustrativa sobre plano de saúde para responder o questionamento: "quanto poderia custar o plano saúde dependendo da idade da pessoa?". Em outro momento, foi usado um banco de dados sobre preço de casas com a pergunta "De acordo com os dados apresentados, baseado na metragem, qual seria o preço da casa?" </p>
 
 
 <img src="https://github.com/WMFrts/pre-processamento-com-pandas-e-sklearn/blob/main/gr%C3%A1ficos.jpg?raw=true">
