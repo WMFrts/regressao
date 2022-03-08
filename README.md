@@ -62,4 +62,4 @@
 <p align = 'JUSTIFY'>REGRESSÃO (ESTATÍSTICA). In: WIKIPÉDIA, a enciclopédia livre. Flórida: Wikimedia Foundation, 2021. Disponível em: <a href= "https://pt.wikipedia.org/w/index.php?title=Regress%C3%A3o_(estat%C3%ADstica)&oldid=62175676">Regressão</a>. Acesso em: 28 fev. 2022.
 
 
-<p align = 'JUSTIFY'> BHALLA, Deepanshu. 15 Types of Regression in Data Science.Listen Data, Delhi, 25, março, 2018. Disponível em: < a href= "https://www.listendata.com/2018/03/regression-analysis.html"> 15 Types of Regression in Data Science</a>. Acesso em: 28 fev. 2022.
+<p align = 'JUSTIFY'> BHALLA, Deepanshu. 15 Types of Regression in Data Science.Listen Data, Delhi, 25, março, 2018. Disponível em:<a href= "https://www.listendata.com/2018/03/regression-analysis.html"> 15 Types of Regression in Data Science</a>. Acesso em: 28 fev. 2022.
