@@ -1,4 +1,4 @@
-<h3> <center> "REGRESSÃO</center> </h3>
+<h3> <center> REGRESSÃO</center> </h3>
 <hr size="1" width="100%" align="center" noshade> 
 
 
