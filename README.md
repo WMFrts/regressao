@@ -13,7 +13,7 @@
 
 <p align = 'JUSTIFY'>Em relação aos dados, foram utilizados uma base de dados ilustrativa sobre plano de saúde para responder o questionamento: "quanto poderia custar o plano saúde dependendo da idade da pessoa?". Em outro momento, foi usado um banco de dados sobre preço de casas com a pergunta "De acordo com os dados apresentados, baseado na metragem, qual seria o preço da casa?" </p>
 
-<p align = "JUSTIFY"> Logo abaixo, segue heatmap sobre a correlação entre os atributos referentes à base de dados que informa o preço das casas. Quanto mais claro o retângulo, maior a correlação entre o atributo da linha com a correspondente da coluna</p>
+<p align = "JUSTIFY"> Logo abaixo, segue heatmap - um dos gráficos utilizados nesse estudo -  sobre a correlação entre os atributos referentes à base de dados que informa o preço das casas. Quanto mais claro o retângulo, maior a correlação entre o atributo da linha com a correspondente da coluna</p>
 
 
 <img src="https://github.com/WMFrts/regressao/blob/main/grafico-correlacao.png">
