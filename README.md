@@ -42,20 +42,46 @@
 <h3>ÍNDICE</h3>
 
 <dl>
-<dt>1 Importação das bibliotecas</dt>
-<dt>2 Base de dados de crédito</dt>
-<dt>3 Visualização dos dados</dt>
-<dt>4 Tratamento de valores inconsistentes</dt>
-<dt>5 Tratamento de valores faltantes</dt>
-<dt>6 Divisão entre previsores e classe</dt>
-<dt>7 Base de dados census</dt>
-<dt>8 Visualização dos dados</dt>
-<dt>9 Divisão entre previsores e classe</dt>
-<dt>10 Atributos categóricos – LabelEncoder</dt>
-<dt>11 Atributos categóricos – OneHotEncoder</dt>
-<dt>12 Escalonamento de atributos</dt>
-<dt>13 Bases de treinamento e teste</dt>
-<dt>14 Salvar as bases de dados</dt>
+  
+<dt>1 REGRESSÃO</dt>
+<dt>1.1 BASE PLANO DE SAÚDE - EXPLORAÇÃO DE DADOS</dt>
+<dt>1.2 PERGUNTA SOBRE O CONTEXTO</dt>
+<dt>1.3 COEFICIENTE DE CORRELAÇÃO</dt>
+<dt>1.4 BASE PREÇO DAS CASAS - EXPLORAÇÃO DE DADOS</dt>
+<dt>1.5 PERGUNTA SOBRE O CONTEXTO</dt>
+<dt>1.6 CRIAÇÃO DO MODELO DE REGRESSÃO LINEAR</dt>
+<dt>1.7 MÉTRICAS DE AVALIAÇÃO</dt>
+<dt>2 REGRESSÃO LINEAR MÚLTIPLA</dt>
+<dt>3 REGRESSÃO POLINOMIAL</dt>
+<dt>3.1 BANCO PLANO DE SAÚDE 2 - EXPLORAÇÃO DE DADOS</dt>
+<dt>3.2 CRIAÇÃO DO MODELO DE REGRESSÃO POLINOMIAL</dt>
+<dt>3.3 TESTE DO ALGORITMO</dt>
+<dt>3.4 PREVISÕES</dt>
+<dt>3.5 BASE PREÇO DAS CASAS</dt>
+<dt>3.6 CRIAÇÃO DO MODELO DE REGRESSÃO POLINOMIAL</dt>
+<dt>3.7 MÉTRICAS DE AVALIAÇÃO</dt>
+<dt>4 REGRESSÃO COM ÁRVORES DE DECISÃO</dt>
+<dt>4.1 BASE PLANO DE SAÚDE</dt>
+<dt>4.2 BASE PREÇO DAS CASAS</dt>
+<dt>4.3 CRIAÇÃO DA REGRESSÃO COM ÁRVORES DE DECISÃO</dt>
+<dt>5 REGRESSÃO COM RANDOM FOREST</dt>
+<dt>5.1 BASE PLANO DE SAÚDE 2</dt>
+<dt>5.2 BASE PREÇO DAS CASAS</dt>
+<dt>6 REGRESSÃO COM VETORES DE SUPORTET</dt>
+<dt>6.1 BASE PLANO DE SAÚDE</dt>
+<dt>6.2 SUPPORT VECTOR REGRESSIONE</dt>
+<dt>6.3 KERNELS</dt>
+<dt>6.4 PREVISÃO</dt>
+<dt>6.5 BASE PREÇO DAS CASAS  </dt>
+<dt>6.6 CRIAÇÃO DO ALGORITMO SVM, TESTE E PREVISÕES</dt>
+<dt>7 REGRESSÃO COM REDES NEURAIS</dt>
+<dt>7.1 BASE PLANO DE SAÚDE 2 </dt>
+<dt>7.2 CRIAÇÃO DA REDE NEURAL </dt>
+  
+  
+  
+  
+  
 </dl>
 
 
